@@ -1,2 +1,4 @@
 # CMP262-Project1
- College Recruitment Improvement Study
+## College Recruitment Improvement Study
+---
+This project is an analysis of data from the Fall 2022 CCM Computing Literacy Course Entry Survey.  This survey was distributed electronically to students who took computer literacy classes CMP 101 Computer Information Literacy, CMP 126 Computer Technology and Applications, and CMP 135 Computer Concepts with Applications.  The survey contained 13 questions, some with multiple parts, and received 131 responses.  This repository includes an Excel spreadsheet with the aforementioned analysis as well as a markdown file with a discussion of the findings.  
