@@ -7,38 +7,38 @@
 
 **1. How many students from each class responded to the survey?**
 
-CMP 101 - 28
-CMP 126 - 22
-CMP 135 - 81
-Total - 131
+CMP 101 - 28  
+CMP 126 - 22  
+CMP 135 - 81  
+Total - 131  
 
 **2. What are the gender percentages?**
 
-Man - 39.7%
-Woman - 58.8%
-Prefer not to say - 1.5%
-Total - 100.0%
+Man - 39.7%  
+Woman - 58.8%  
+Prefer not to say - 1.5%  
+Total - 100.0%  
 
 **3. What is the racial/ethnic diversity?  For those students selecting more than one race/ethnicity, assign multi-racial to their category.**
 
-Of the students who chose to respond to this question, the ethnic and racial make up is as follows:
-White/Caucasian - 52 (39.7%)
-Hispanic or Latino - 31 (23.7%)
-Black/African American - 13 (9.9%)
-Asian - 11 (8.4%)
-Multi-racial - 19 (14.5%)
-Total - 126 (96.2%)
+Of the students who chose to respond to this question, the ethnic and racial make up is as follows:  
+White/Caucasian - 52 (39.7%)  
+Hispanic or Latino - 31 (23.7%)  
+Black/African American - 13 (9.9%)  
+Asian - 11 (8.4%)  
+Multi-racial - 19 (14.5%)  
+Total - 126 (96.2%)  
 
 Five survey participants, or 3.8%, chose not to provide a response to this question.
 
 **4. What is the age distribution for the survey?**
 
-18 and younger - 33.6%
-19-20 - 33.6%
-21-24 - 16.8%
-25-34 - 12.2%
-35-64 - 3.8%
-Total - 100.0%
+18 and younger - 33.6%  
+19-20 - 33.6%  
+21-24 - 16.8%  
+25-34 - 12.2%  
+35-64 - 3.8%  
+Total - 100.0%  
 
 ---
 
@@ -54,12 +54,12 @@ For individuals who identified that there was a reason to take a computer litera
 **2. Answer two questions from your previously submitted Project 1 questions.**
 
 **a. For non-Computer Science students answering the question “How interested are you in taking more courses in Computer Science, Information Technology or Game Development?” with (4) Somewhat Interested or (5) Extremely Interested, which majors are they?** (worksheet PIVOT)
-Radiography - 6
-Criminal Justice - 5
-Nursing - 3
-Business Administration - 1
-Liberal Arts - 1
-Undeclared - 2
+Radiography - 6  
+Criminal Justice - 5  
+Nursing - 3  
+Business Administration - 1  
+Liberal Arts - 1  
+Undeclared - 2  
 
 **b. (i) For non-Computer Science students identifying as female, are there any trends in their motivation for taking a literacy course?  (ii) For those selecting “IT Industry Certifications,” what are their demographics and current major?** (worksheet NON-PIVOT)
 
