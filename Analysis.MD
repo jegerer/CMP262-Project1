@@ -44,7 +44,8 @@ Total - 100.0%
 
 ### Disaggregation of Data
 
-**1. For a selected population, discover at least two things about this group.**
+**1. For a selected population, discover at least two things about this group.**  
+
 For individuals who identified that there was a reason to take a computer literacy course other than it being a couse prerequisite (20 out of 131): 
 - Thirteen identified as men and were split in near-equal counts in terms of ethnicity (4 White/Caucasian, 3 Asian, 2 Hispanic or Latino, 2 Black/African American, 2 Multi-Racial). 
 - Two of those 13 did not select a motivation for taking the course (i.e., all answers to that question were marked as "No").  From the other 11, more than 50% (7 of 11) chose motivations related to work or money (e.g. Career Advancement, Career Change, Professional Development).
@@ -53,7 +54,8 @@ For individuals who identified that there was a reason to take a computer litera
 
 **2. Answer two questions from your previously submitted Project 1 questions.**
 
-**a. For non-Computer Science students answering the question “How interested are you in taking more courses in Computer Science, Information Technology or Game Development?” with (4) Somewhat Interested or (5) Extremely Interested, which majors are they?** (worksheet PIVOT)
+**a. For non-Computer Science students answering the question “How interested are you in taking more courses in Computer Science, Information Technology or Game Development?” with (4) Somewhat Interested or (5) Extremely Interested, which majors are they?** (worksheet PIVOT)  
+  
 Radiography - 6  
 Criminal Justice - 5  
 Nursing - 3  
